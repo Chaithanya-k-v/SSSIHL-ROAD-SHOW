@@ -28,7 +28,7 @@ Here we get to know about how many cell have been used and what is the distance 
 
 14. Then enter the command "eog designs/picorv32a/runs/13-12_07-00/results/placement/picorva32a.placement.def.png"<br />
 ![Screenshot 2024-12-13 140851](https://github.com/user-attachments/assets/7e8730c0-d4b4-4fcf-bde1-b296d42c1ed4)<br />
-15.Enter the command "run_cts" and execute
-16.Enter the command "run_routing" and execute
+15.Enter the command "run_cts" and execute<br />
+16.Enter the command "run_routing" and execute<br />
 
 

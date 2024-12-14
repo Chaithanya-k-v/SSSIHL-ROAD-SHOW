@@ -19,5 +19,16 @@
 ![image](https://github.com/user-attachments/assets/821211e1-742e-46e7-a6fb-da36abaedf17)<br />
 Here we get to know about how many cell have been used and what is the distance between the source and the drain. In the above we see the number of cell are 14876 and distance is 130nm<br />
 ![image](https://github.com/user-attachments/assets/b8fc2379-c271-488e-9c0d-c4f5ca76bae6)<br />
-Enter the following command "run_floorplan"<br />
+11. Enter the following command "run_floorplan"<br />
 ![image](https://github.com/user-attachments/assets/4a811e73-ad25-4bf5-8da8-63aaf000ffd3)<br />
+12. Enter the command "eog designs/picorv32a/runs/13-12_07-00/results/floorplan/picorva32a.floorplan.def.png" and execute <br />
+![Screenshot 2024-12-14 202743](https://github.com/user-attachments/assets/8c822e76-536e-4d57-852d-0119ec4513c9)<br />
+13. Enter the command "run_placement" and execute .<br />
+![Screenshot 2024-12-13 140732](https://github.com/user-attachments/assets/388b5d3b-03af-43af-a235-36f8d3b368cf).<br />
+
+14. Then enter the command "eog designs/picorv32a/runs/13-12_07-00/results/placement/picorva32a.placement.def.png"<br />
+![Screenshot 2024-12-13 140851](https://github.com/user-attachments/assets/7e8730c0-d4b4-4fcf-bde1-b296d42c1ed4)<br />
+15.Enter the command "run_cts" and execute
+16.Enter the command "run_routing" and execute
+
+

@@ -1,5 +1,5 @@
 # SSSIHL Road show
- 
+The main focus of the project focused on converting high level logic descriptions to a physical chip design suitable for the manufacturing and release to the market.We use RISC-V architecture to build this package.<br />
 1. Open the ubuntu software from the oracle virtual box in windows <br /> <br />
 ![Screenshot 2024-12-13 100311](https://github.com/user-attachments/assets/1e43c276-b44b-4370-8dfc-cf3b2faac189) <br />
 2. Open the terminal and Enter sudo apt install gedit <br /> Then after the execution of the command enter the password as : vsdiat <br />

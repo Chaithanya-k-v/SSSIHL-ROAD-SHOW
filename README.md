@@ -31,5 +31,5 @@ Here we get to know about how many cell have been used and what is the distance 
 15.Enter the command "run_cts" and execute<br />
 16.Enter the command "run_routing" and execute<br />
 
-##Summary of the RISC-V and VLSI workshop
+## Summary of the RISC-V and VLSI workshop
 The above workshop helped us to understand the fundamentals of the RISC-V architecture and its significance in VLSI chip design. It included practical designing and Fabrication which gave the insights on the chip designing.
